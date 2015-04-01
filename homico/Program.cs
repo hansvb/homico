@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace homico
+namespace Homico
 {
     class Program
     {
         static void Main(string[] args)
         {
+            var theCommitter = new TheCommitter();
         }
     }
 }
